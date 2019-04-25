@@ -17,4 +17,5 @@ This repository contains projects made in BGE(Blender Game Engine) while learnin
 ###### final_game.blend : It is like a small computer game.Player have to shoot the moving objects in a particular time, and is rewarded additional time on hitting up an object.Hold left mouse button to move the player's arms and shoot a bullet via right mouse button. Player's movement can be controlles via W key and the mouse. (Note: Set the current scene to 'Start' before playing the game).
 
 #### Model Folder  
-###### earth.blend : earth rendering (cycles)
+###### earth.blend : earth rendering (cycles)  
+###### texture.blend : tried to give realistic(kind) textures(that is dirt,bumps etc.) to the floor in the render. 
