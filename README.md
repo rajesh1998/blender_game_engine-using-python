@@ -18,4 +18,6 @@ This repository contains projects made in BGE(Blender Game Engine) while learnin
 
 #### Model Folder  
 ###### earth.blend : earth rendering (cycles)  
-###### texture.blend : tried to give realistic(kind) textures(that is dirt,bumps etc.) to the floor in the render. 
+###### texture.blend : tried to give realistic(kind of) textures(that is dirt,bumps etc.) to the floor in the render scene of street lamp and a chair.    
+###### wind-mill.blend : tried to make a realistic(kind of) scene with mountains, river and a wind-mill. 
+
